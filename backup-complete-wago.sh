@@ -1,4 +1,5 @@
 ####vychází s toho že v /promenna je spouštěč ./retain na zálohu proměnných z paměti. 
+####  pozor retain by mělo wago už obsahovat ve svém systému. Hádal bych to na nějaký /sbin  kde bude  ./retain  -- muj kompilovaný eqialent pro FW kde ješte není ./retain_sdk-12 -r /tmp/backup-pixly/transfer/$HOSTNAME-promenna 
 
 
 
