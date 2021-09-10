@@ -59,4 +59,4 @@ echo $HOSTNAME
 
 
 ####tedyma uz jen stahnout ... a pak za par hodin idealne smazat :))  doladim scriptem po kopirovani :) 
-echo KONEC!!!!!!!!!!!!! 
+echo KONEC!!!!!! !!!!!!! 
