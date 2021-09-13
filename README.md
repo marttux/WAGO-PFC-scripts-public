@@ -1,3 +1,5 @@
+WAGO - System Backup
+
 Tento script je součást něčeho jiného. Nicméně díky němu je možné vytvořit celkový backup Wago jednotky. 
 Vše se ukládá do /tmp/backup-pixly/ 
 
